@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Juruk Team
+                    Juruk Team XII RPL 2
                 </div>
 
                 <div class="links">
